@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ZiggyWilbur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and django...
-- 💞️ I’m looking to collaborate on some projects too if you're willing...
-- 📫 How to reach me? WhatsApp me!!
+- 👋 Hi, I’m @ZiggyEmmanunel
+- 👀 I’m interested in all things Tech: Web development and Cyber security!
+- 🌱 I’m currently learning python, django, HTML, CSS, JavaScript and Typescript ...
+- 💞️ I’m looking to collaborate on some projects and work...
+- 📫 How to reach me? email: Ziggyemmy99@gmail.com!!
 
 <!---
-ZiggyWilbur/ZiggyWilbur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ZiggyEmmanuel/ZiggyEmmanuel is a ✨ special ✨ repository because its `README.md` and this is how you get to know me..
 --->
